@@ -1,0 +1,33 @@
+body {
+  background-image: url("1.jpg");
+  background-size: auto;
+  background-attachment: fixed;
+}
+
+img {
+  float: right;
+  width: 210px;
+}
+
+.col {
+  float: left;
+  font-size: 15px;
+  width: 300px;
+  padding: 10px;
+
+
+}
+
+.side {
+  font-size: 28px;
+
+}
+
+.sidebar {
+  float: left;
+  width: 210px;
+  font-style: italic;
+  font-family: Courier;
+  border-style: solid;
+  margin: 20px;
+}
