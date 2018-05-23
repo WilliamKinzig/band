@@ -5,7 +5,6 @@ body {
 }
 
 img {
-  float: right;
   width: 210px;
 }
 
@@ -30,4 +29,13 @@ img {
   font-family: Courier;
   border-style: solid;
   margin: 20px;
+}
+
+.show {
+  float: left;
+  width: 300px;
+  font-size: 25px;
+  border-style: solid;
+  border-width: 2px;
+  padding: 10px;
 }
